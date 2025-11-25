@@ -1,0 +1,57 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: beige;
+}
+
+
+.productdetails{
+
+   padding: 15px;
+    width: 300px;
+    background-color: white;
+    border: 2px solid grey ;
+    margin:  auto;
+
+    border-radius: 4%;
+
+
+}
+
+
+.cart{
+
+    background-color: blueviolet;
+    color: white;
+    width: 100px;
+    height: 35px;
+    border-radius:10px ;
+
+
+}
+
+
+.price{
+
+    color: red;
+
+}
+
+
+.product-image{
+
+
+
+    background-image: url("tshirt.jpeg");
+    background-size: cover ;
+    width: 300px;
+    height: 300px;
+}
+
+
+.cart:hover{
+
+
+
+    background-color: burlywood;
+}
